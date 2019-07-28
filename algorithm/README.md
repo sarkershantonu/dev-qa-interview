@@ -9,5 +9,9 @@
 - Merge
 
 # Searching
-- Binary
-- 
+- Linear
+- Binary & different varients 
+- Search via recursion
+- Jump  
+- Interpolation  
+- Exponential  
