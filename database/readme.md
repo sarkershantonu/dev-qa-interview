@@ -18,18 +18,6 @@
 - File Base DB basic
 - DB Stream
 
-# SQL 
-- Insert
-- Update 
-- Delete 
-- Upsert
-- Left Join
-- Right Join
-- Innter Join
-- Outter Join
-- RowNum
-- Create 
-- Delete vs Tranket
 
 # Concurrency 
 - DB Object Locking
