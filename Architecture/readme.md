@@ -1,0 +1,12 @@
+# Software Architecture Bsics
+- Collecting Moving/changing part
+- Fixing non changable requirements
+- Component Modeling
+- Defining best practices
+- Creating developer, tester, Ops workflow
+- POC on choosing technology 
+- Comprehensive Performance & Security testing 
+- Deploying component wise features
+- Defining KPI (from idea to delivery) matrics for teams
+- Eastimating real cost for production ready application & its features
+- Generating different type of UMLs 
