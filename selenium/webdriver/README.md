@@ -1,7 +1,5 @@
 # Selenium Webdriver 
 
-# Handling Different Type of webelement
-
 # Browser Management 
 - Profile management
 - Plugin Management 
