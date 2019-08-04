@@ -38,6 +38,14 @@ https://www.youtube.com/watch?v=pNeDFJp_xwU
 # Designing framework bottom up
 
 # Reporting principle 
+- Less manual overhead
+- Auto test reports using build tools/commands
+- Each type of audience should have different view of a report. Like stake holders, business analyst, developer/qa, prod-support etc. 
+- Fail alert should be included 
+- Log support shold be there
+- Analysis can be included (custom perserts, log analyzers like splunk, logstash, amazon cloudwatch)
+- Screenshot should be included for selenium
+
 
 # How to decide tools
 - Why it is best for team
