@@ -40,3 +40,16 @@ https://www.youtube.com/watch?v=pNeDFJp_xwU
 # Reporting principle 
 
 # How to decide tools
+- Why it is best for team
+- Why not ?
+- How is the skill of the team
+- Existing technology stack
+- Developer skills
+- Tester skills
+- How quick to apply tests
+- How quick we can show results to teams
+- How we can make it effective
+- How is the delivery time line & cost
+- Will management invest in this
+- How much training needed
+- What is learning curve for this
