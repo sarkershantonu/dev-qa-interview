@@ -7,6 +7,5 @@
 - grep command
 
 # Package Manager
-- apt
-- yum
-- Install, uninstall, 
+- apt/yum
+- Install,update, uninstall, clean, remove with dependencies package. 
