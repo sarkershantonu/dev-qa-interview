@@ -19,6 +19,9 @@
 - Low Latency
 - Validating
 - Modulalize optimization 
+- Scaling Up & Down
+- Horizontal & vertical scaling
+- Configuration impact
 
 # Jmeter Basics
 - Plugin Architecture of jmeter
