@@ -1,11 +1,17 @@
 # Performance Test Basics
 - Load/Stress/Capacity test
 - Base line measurement & retesting
+- Reporting format & KPI
 
 # Performance Analysis
-- KPI
+- KPI analysis and progress
 - variable/parameters
-
+- Key Bottlenecks 
+- Basic statistics
+- Log Monitoring & analysis
+- Process Monitoring & analysis
+- OS Resource Monitoring & analysis
+- Profiling App, module, component, class
 
 # Optimization 
 - Target optimization 
