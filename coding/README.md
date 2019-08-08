@@ -15,3 +15,4 @@
 # OOP
 - Inheritance
 - Abstruction
+- Polymorphism 
