@@ -10,3 +10,6 @@
 - RowNum
 - Create 
 - Delete vs Tranket
+- DDL vs DML query 
+
+# Best Practices
