@@ -6,6 +6,11 @@
 # Bash Pipe Command
 - grep command
 
+# Logical Operations
+
+# Looping 
+
+
 # Package Manager
 - apt/yum
 - Install,update, uninstall, clean, remove with dependencies package. 
