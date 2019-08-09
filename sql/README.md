@@ -12,4 +12,10 @@
 - Delete vs Tranket
 - DDL vs DML query 
 
+
+
+# Version Controlling 
+- Data Versioning
+- Schema Versioning
+
 # Best Practices
